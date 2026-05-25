@@ -21,8 +21,8 @@ chromedriver.exe --port=9515
 ## Установка
 
 ```bash
-git clone https://github.com/okeydw/pinterest-parser
-cd pinterest-parser
+git clone https://github.com/okeydw/Pinterest-Scraper
+cd Pinterest-Scraper
 cargo build --release
 ```
 
